@@ -1,3 +1,1 @@
-This is README for ALX-LOW_LEVEL_PROGRAMMING
-
-Am loving programming in C
+alx-low_level_programming
